@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kosarakbarshah@gmail.com**
 
-- ⚡ Fun fact **I created more then hundreds of cat related projects**
+- ⚡ Fun fact **I created more than hundreds of cat projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
