@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kosarakbarshah" alt="kosarakbarshah" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/KosarAkbarshah](https://github.com/KosarAkbarshah)
+- 👨‍💻 All my favorite projects are here!
 
 - 💬 Ask me about **Html5,CSS3,JS**
 
