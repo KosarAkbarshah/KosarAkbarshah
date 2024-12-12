@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kosar Akbarshah</h1>
 <h3 align="center">Computer science student, intrested in front-end development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kosarakbarshah&label=Profile%20views&color=0e75b6&style=flat" alt="kosarakbarshah" /> </p>
 
 <p align="center">  
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF2bTdyOHZ1eThtZGJjNmJwNXEwejBkbHpxcGJwYTI3ZWVzMWwyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LV9ipFcS5n7WlxEA6O/giphy.gif" width="800" />  
@@ -15,6 +14,7 @@
 
 - ⚡ Fun fact **I created more than hundreds of cat projects**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kosarakbarshah&label=Profile%20views&color=0e75b6&style=flat" alt="kosarakbarshah" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kosarakbarshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kosarakbarshah" height="30" width="40" /></a>
