@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kosarakbarshah&label=Profile%20views&color=0e75b6&style=flat" alt="kosarakbarshah" /> </p>
 
 <p align="center">  
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t6MW8xdmM0YzJhOHF2c3R6NHI3c3Q1MmR3ZDd4cDdsOXpnbGZ1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5itD6QOf7Gs58yBUFz/giphy.gif" width="600" />  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N0OHBlNDdyOHAwaHl0cmZqNDRhMDBpdzBsMm90emNmdDhhY2VvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif" width="500" />  
 </p>
 
 - 👨‍💻 All my favorite projects are here!
