@@ -10,7 +10,7 @@
 
 ### 👩‍💻 About Me  
 
-- 🎓 Computer Science Student at Lasalle College | Graduating Summer 2026  
+- 🎓 Computer Science at Lasalle College
 - 🌱 Currently building Projects Using Javascript, React, next.js, tailwind + HTML,CSS!
 - 🛠 Learning UI and UX design concepts to improve my visual design skills!
 - 📊 Exploring tools like MUI to master component building. 
